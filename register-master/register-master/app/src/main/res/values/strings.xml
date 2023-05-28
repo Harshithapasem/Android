@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Registration_form</string>
+    <string-array name="Branch">
+        <item>"BRANCH"</item>
+        <item>"CSE"</item>
+        <item>"ECE"</item>
+        <item>"EEE"</item>
+        <item>"MECH"</item>
+        <item>"CIVIL"</item>
+        <item>"IT"</item>
+        <item>"ECM"</item>
+        <item>"EIE"</item>
+
+    </string-array>
+    <string-array name="YEAR">
+
+        <item>"YEAR"</item>
+        <item>"1YEAR"</item>
+        <item>"2YEAR"</item>
+        <item>"3YEAR"</item>
+        <item>"4YEAR"</item>
+    </string-array>
+</resources>
